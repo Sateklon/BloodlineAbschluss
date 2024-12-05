@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d776b89a-b540-4ce9-b851-8a30de7c3aeb}">
+		<property name="assetPath">
+			<value>Surkling, Into Water.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>112.416</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6323b23e-bdc5-45d3-ad0b-8c969f60f34b}</destination>
+		</relationship>
+	</object>
+</objects>

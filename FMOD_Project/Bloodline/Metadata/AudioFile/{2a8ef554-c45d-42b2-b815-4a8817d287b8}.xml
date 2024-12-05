@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2a8ef554-c45d-42b2-b815-4a8817d287b8}">
+		<property name="assetPath">
+			<value>ES_Hit Metallic Impact 5 - SFX Producer.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.9039999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6323b23e-bdc5-45d3-ad0b-8c969f60f34b}</destination>
+		</relationship>
+	</object>
+</objects>

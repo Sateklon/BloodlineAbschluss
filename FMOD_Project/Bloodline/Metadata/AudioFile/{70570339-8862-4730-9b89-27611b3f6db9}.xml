@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{70570339-8862-4730-9b89-27611b3f6db9}">
+		<property name="assetPath">
+			<value>human-vocal-female-moan-pain-short-soft-03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.53400000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6323b23e-bdc5-45d3-ad0b-8c969f60f34b}</destination>
+		</relationship>
+	</object>
+</objects>
