@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0a8aba37-efdd-4616-98ed-b1d03f2adcb4}">
+		<property name="assetPath">
+			<value>Axe Swoosh B.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.53752834467120181</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6323b23e-bdc5-45d3-ad0b-8c969f60f34b}</destination>
+		</relationship>
+	</object>
+</objects>
